@@ -17,9 +17,9 @@ criaCartao(
 )
 
 criaCartao (
-    'HTML',
-    'O que é uma tag <div>?',
-    'Um contêiner de bloco para agrupar elementos'
+    'CSS',
+    'Como mudar a cor de fundo com CSS?',
+    'Use background-color'
 )
 
 criaCartao (
